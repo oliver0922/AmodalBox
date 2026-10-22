@@ -2,13 +2,14 @@
 
 # AmodalBox: Automated 3D Bounding Box Annotation under Partial Visibility
 
-[In-Jae Lee](https://injaelee.github.io/)<sup>1</sup> · [Namtae Kim](https://www.linkedin.com/in/namtae-kim-a9254129a/)<sup>1</sup> · [Robert Exley](https://www.linkedin.com/in/robert-exley-b67432251/)<sup>1</sup> · [Kwonyoung Ryu](https://kwonyoung9120.github.io/)<sup>1</sup> · [Jaesik Park](https://jaesik.info/)<sup>1</sup>
+[In-Jae Lee](https://injaelee.github.io/)<sup>1</sup> · [Namtae Kim](https://www.linkedin.com/in/namtae-kim-a9254129a/)<sup>1</sup> · [Robert Exley](https://www.linkedin.com/in/robert-exley-b67432251/)<sup>2</sup> · [Kwonyoung Ryu](https://kwonyoung9120.github.io/)<sup>1</sup> · [Jaesik Park](https://jaesik.info/)<sup>1</sup>
 
-<sup>1</sup>Seoul National University
+<sup>1</sup>Seoul National University <sup>2</sup>university of pittsburgh
+
 
 **CoRL 2026**
 
-[![Project Page](https://img.shields.io/badge/Project%20Page-Website-blue.svg)](https://injaelee.github.io/AmodalBox/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Website-blue.svg)](https://oliver0922.github.io/AmodalBox/)
 
 
 </div>
